@@ -51,7 +51,6 @@ nrow(crowdsourced)
 ```{r}
 # Look at the number of rows to determine observations
 nrow(govt)
-
 ```
 
 2.  Each monitor is located at a unique latitude and longitude location. How many unique monitors are in each dataset? 
